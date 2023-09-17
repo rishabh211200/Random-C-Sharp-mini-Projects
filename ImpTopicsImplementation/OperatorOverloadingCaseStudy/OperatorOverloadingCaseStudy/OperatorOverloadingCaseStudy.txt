@@ -1,0 +1,5 @@
+﻿ABC company is involved in development of new aircraft for companies like boeing and airbus.
+When developing the designs of new aircrafts, the designing staff of ABC has to do a number 
+of complex calculations. Manually performing these calculations has become a tedious task 
+for the designing staff of ABC. How can ABC automate the task of performing these complex
+calculations?

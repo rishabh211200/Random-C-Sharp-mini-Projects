@@ -1,0 +1,7 @@
+﻿Case Study Question 
+
+There is a computer store, WHich mainly sells different variety of HP computers. While selling Hp computers,
+It has become a tedious task for the marketing staff of HPstore to remeber the feautres, price and the names
+of different varieties of HP computers, As a Result the marketing staff in Hp store is facing problems in
+providing the correct information to customers who come to enquire about HP computers.How can HP store can
+solve the problem?

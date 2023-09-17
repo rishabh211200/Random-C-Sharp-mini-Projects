@@ -1,0 +1,5 @@
+﻿Rishabh is working as a senior programmer in XYZ company, Currently he is involved in developing an application for ABC company
+. The application should allow the staff of ABC to input data such as numbers and text for storing it in a database. Rishabh wants
+that a user of application must be allowed to enter only numeric values for the number field and character values for the text
+field such as name and  address. He also wants that a proper message should be displayed if a user enter character values in number 
+fields. How can Rishabh apply this functionality in the application?
